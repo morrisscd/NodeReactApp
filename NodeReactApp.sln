@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodeReactApp", "NodeReactApp.njsproj", "{94963052-4CB4-42D5-A87C-9A9BF273AB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94963052-4CB4-42D5-A87C-9A9BF273AB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94963052-4CB4-42D5-A87C-9A9BF273AB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94963052-4CB4-42D5-A87C-9A9BF273AB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94963052-4CB4-42D5-A87C-9A9BF273AB29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B795223A-4657-436E-A496-337D7A19DE1D}
+	EndGlobalSection
+EndGlobal
